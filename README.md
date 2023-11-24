@@ -1,4 +1,4 @@
-# Codesoft
+# Codsoft
 
 This folder includes three projects on web development 
 1. portfolio
