@@ -4,7 +4,7 @@
 -  The website is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
 
 ### Live Demo
-<a href="https://maneeshgujar.github.io/Codesoft/task1-portfolio/">click here <a> to see the demo of the webpage
+<a href="https://maneeshgujar.github.io/Codsoft/task1-portfolio/">click here <a> to see the demo of the webpage
 
 ### Preview of the webpage
 
