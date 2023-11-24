@@ -3,7 +3,7 @@
 - It can perform basic operations such as (+ - * / %)
 
 ### Live Demo
-<a href="https://maneeshgujar.github.io/Codesoft/task2-calculator">Click here </a> to see the demo of the webpage
+<a href="https://maneeshgujar.github.io/Codsoft/task2-calculator">Click here </a> to see the demo of the webpage
 
 ###  Preview of the webpage
 
