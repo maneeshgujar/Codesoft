@@ -4,7 +4,7 @@
 -  The website is designed to be fully responsive to experience across various devices and screen sizes.
 
 ### Live Demo
-<a href="https://maneeshgujar.github.io/Codesoft/task3-landingPage/">Click here </a> to see the demo of the webpage
+<a href="https://maneeshgujar.github.io/Codsoft/task3-landingPage/">Click here </a> to see the demo of the webpage
 
 ### Preview of the webpage
 
