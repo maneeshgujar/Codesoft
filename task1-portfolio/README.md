@@ -1,4 +1,4 @@
-##portfolio
+# portfolio
 
 - This webpage is designed using html, css and javascript only
 -  The website is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
